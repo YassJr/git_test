@@ -1,0 +1,1 @@
+Bonjour, voici mon tout premier texte écrit sur Vim.
